@@ -11,6 +11,14 @@ msgstr ""
 "Language: pl\n"
 "Project-Id-Version: Themes - Twenty Nineteen\n"
 
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "Nasz domyślny motyw na rok 2019 stworzony został z myślą o pokazaniu możliwości jakie niesie edytor blokowy. Zawiera style dla wszystkich domyślnych rodzajów bloków i został zbudowany tak, że wszystko co widać w edytorze będzie wyglądało tak samo po publikacji. Twenty Nineteen został zaprojektowany tak, aby sprostać wymaganiom szerokiej gamie stron Internetowych. Nie ważne czy tworzysz blog, rozpoczynasz działalność czy działasz w ramach organizacje non-profit. Połączenie nowoczesnych, bezszeryfowych nagłówków z klasycznym krojem szeryfowym treści, w otoczeniu obszernych wolnych przestrzeni sprawia, że prezentuje się on wspaniale na każdym ekranie."
+
+#. Theme Name of the theme
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
 #: classes/class-twentynineteen-walker-comment.php:96
 msgid "Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved."
 msgstr "Komentarz czeka na zatwierdzenie. To jest podgląd komentarza, który będzie widoczny po jego zatwierdzeniu."
@@ -106,13 +114,13 @@ msgstr "M"
 msgid "Normal"
 msgstr "Normalny"
 
-#: functions.php:117
-msgid "Small"
-msgstr "Mały"
-
 #: functions.php:118
 msgid "S"
 msgstr "S"
+
+#: functions.php:117
+msgid "Small"
+msgstr "Mały"
 
 #: functions.php:60 footer.php:37
 msgid "Footer Menu"
@@ -377,6 +385,14 @@ msgstr "Wygląda na to, że w tym miejscu niczego nie ma. Może warto spróbowa�
 #: 404.php:20
 msgid "Oops! That page can&rsquo;t be found."
 msgstr "Ups! Nie udało się znaleźć pożądanej strony."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://pl.wordpress.org/themes/twentynineteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "zespół WordPressa"
 
 #. Author URI of the theme
 #: footer.php:25
